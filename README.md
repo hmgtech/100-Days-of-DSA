@@ -14,3 +14,13 @@ Time Complexity: The time complexity of an algorithm quantifies the amount of ti
 
 Space Complexity: 
 Problem-solving using computer requires memory to hold temporary data or final result while the program is in execution. The amount of memory required by the algorithm to solve given problem is called space complexity of the algorithm.
+
+Also Refer: <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/">Fundamentals of Algorithms</a>
+
+<hr>
+
+## Day-1
+Topic: <b>Arrays</b><br>
+Theory: <a href="https://www.geeksforgeeks.org/array-data-structure/">Arrays</a><br>
+1. <a href="https://leetcode.com/problems/two-sum/">Two Sum</a>
+2. <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time To Buy and Sell Stock</a>
