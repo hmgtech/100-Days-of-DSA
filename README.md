@@ -24,7 +24,7 @@ Topic: <b>Arrays</b><br>
 Theory: <a href="https://www.geeksforgeeks.org/array-data-structure/">Arrays</a><br>
 1. <a href="https://leetcode.com/problems/two-sum/">Two Sum</a>
 2. <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time To Buy and Sell Stock</a>
-3. <a href="https://leetcode.com/problems/spiral-matrix/description/">Spiral Matrix</a>
+3. <a href="https://leetcode.com/problems/spiral-matrix/description/">Spiral Matrix</a> : <a href="https://www.youtube.com/watch?v=BJnMZNwUk1M">Video Reference</a>
 <hr>
 
 ## Day-2
